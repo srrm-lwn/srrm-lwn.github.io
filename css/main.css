@@ -194,6 +194,7 @@ ul {
 .header nav {
 	margin-top: 20px;
 	border-top: 1px solid #f4f4f4;
+  border-bottom: 1px solid #f4f4f4;
 }
 
 .header nav ul,
@@ -203,6 +204,8 @@ ul {
 
 .header nav ul.flat {
 	padding: 0;
+  margin-bottom: 10px;
+
 }
 
 .header nav ul.flat li {

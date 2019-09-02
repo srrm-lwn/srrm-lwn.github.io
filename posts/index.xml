@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sriram Alwan&#39;s Personal Space</title>
-    <link>srrmlwn.github.io/</link>
-    <description>Recent content on Sriram Alwan&#39;s Personal Space</description>
+    <title>Posts on Sriram Alwan&#39;s Personal Space</title>
+    <link>srrmlwn.github.io/posts/</link>
+    <description>Recent content in Posts on Sriram Alwan&#39;s Personal Space</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Sep 2019 12:50:24 -0700</lastBuildDate>
     
-	<atom:link href="srrmlwn.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="srrmlwn.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
